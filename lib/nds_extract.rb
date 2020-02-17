@@ -19,7 +19,7 @@ movies_index+=1
 end
 
 total_gross
-binding.pry
+
 end
 
 # Write a method that, given an NDS creates a new Hash
