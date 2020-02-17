@@ -16,10 +16,9 @@ while movies_index < director_data[:movies].length do
   total_gross += director_data[:movies][movies_index][:worldwide_gross]
 
 movies_index+=1
-total_gross
 end
 
-
+total_gross
 
 end
 
