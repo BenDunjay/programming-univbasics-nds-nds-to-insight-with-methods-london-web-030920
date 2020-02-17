@@ -41,9 +41,9 @@ def directors_totals(nds)
  
   i+=1
   
-  result
+  
 end
 
-  
+  result
   
 end
