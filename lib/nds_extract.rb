@@ -37,7 +37,7 @@ def directors_totals(nds)
    result[directors_name] = 0
    director = nds[i]
  
- result[directors_name] += gross_for_director(director)
+ result[directors_name] = gross_for_director(director)
  
   i+=1
   
